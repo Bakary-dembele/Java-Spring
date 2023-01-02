@@ -3,3 +3,5 @@
 * artifact id: nom du projet
 * name: nom du projet
 * description: description du projet
+* https://start.spring.io/
+*
