@@ -5,3 +5,7 @@
 * description: description du projet
 * https://start.spring.io/
 *
+
+### dépendance 
+* Spring Web 
+* Thymeleaf 
