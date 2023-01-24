@@ -13,6 +13,7 @@
 * Thymeleaf 
 * MySQL Driver
 * JDBC API
+* Spring Data JPA
 
 ### Myql connector
 * https://dev.mysql.com/downloads/mysql/
