@@ -11,14 +11,16 @@
 ### dépendance 
 * Spring Web 
 * Thymeleaf 
+* MySQL Driver
+* JDBC API
 
+### Myql connector
+* https://dev.mysql.com/downloads/mysql/
+* CREATE DATABASE music CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+* create table music (id int primary key auto_increment not null, title varchar(100)) ENGINE=MyISAM;
 
 
 ### Notes générales
 * 
 
 
-### Myql connector
-* https://dev.mysql.com/downloads/mysql/
-* CREATE DATABASE music CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-* create table music (id int primary key auto_increment not null, title varchar(100)) ENGINE=MyISAM;
