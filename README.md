@@ -23,6 +23,9 @@
 * create table music (id int primary key auto_increment not null, title varchar(100)) ENGINE=MyISAM;
 
 
+### Langue local
+* https://translate.i18next.com/
+
 ### Notes générales
 * 
 
