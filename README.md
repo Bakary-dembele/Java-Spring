@@ -8,6 +8,7 @@
 * https://docs.spring.io/spring-boot/docs/current/reference/html/
 * https://spring.io/projects/spring-framework
 * https://www.thymeleaf.org/documentation.html
+* https://spring.io/projects/spring-ws
 
 ### dépendance 
 * Spring Web 
