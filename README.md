@@ -27,6 +27,9 @@
 ### Langue local
 * https://translate.i18next.com/
 
+### Data base
+* https://www.sciencedirect.com/topics/computer-science/data-staging-area
+
 ### Notes générales
 * 
 
