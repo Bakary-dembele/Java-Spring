@@ -25,6 +25,9 @@
 * CREATE DATABASE music CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 * create table music (id int primary key auto_increment not null, title varchar(100)) ENGINE=MyISAM;
 
+### Test unitaire et fonctionnel
+* https://spring.io/guides/gs/testing-web/
+* https://spring.io/guides/gs/testing-web/
 
 ### Langue local
 * https://translate.i18next.com/
